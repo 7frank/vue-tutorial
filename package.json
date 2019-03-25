@@ -4,6 +4,7 @@
   "description": "our json test case",
   "main": "index.ts",
   "scripts": {
+    "start":"nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

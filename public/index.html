@@ -4,7 +4,7 @@
 <div id="app-2">
 
     <div>
-        Search:<input v-model="filter"></input>
+        Search:<input v-model="filter"></input> Ergebnisse: <span>{{filteredItems.length}} </span>
     </div>
     <table>
         <tr v-for="(item, key, index) in filteredItems">
@@ -31,10 +31,10 @@
             filteredItems:function(){
                 if (!this.filter) return this.items;
 
-
+                const filter=this.filter.toLowerCase()
                 return this.items
-                .filter(item=> item['Verantwortlicher Dozent'].toLowerCase().indexOf(this.filter)>=0)
-             
+                .filter(item=> item['Verantwortlicher Dozent'].toLowerCase().indexOf(filter)>=0)
+        
             }
 
 
