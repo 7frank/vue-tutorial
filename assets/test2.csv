@@ -1,0 +1,500 @@
+﻿#;Seite;WiWi-Modul;Wing Master-Modul;Wing Diplom-Modul;Winf Master-Modul;Winf Diplom-Modul;WiPäd-Modul;Name;Verantwortlicher Dozent;VD einheitlich;WiWi;WiPäd;Wing;Winf;Kodierung;Dauer;CP
+1;15;BA-WW-EBWL;;D-WW-EBWL;;;;Einführung in die Betriebswirtschaftslehre;Prof. Dr. Michael Schefczyk;Prof. Dr. Michael Schefczyk;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+2;16;BA-WW-ERG-1106a;;D-WW-ISW;;;;Informationssysteme und Wertschöpfung;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_BA;wp_BA;wp_HS;p_GS;;1;5
+3;18;BA-WW-ERG-2410;;D-WW-IB;;D-WW-IB;;Informationsbereitstellung;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;wp_BA;wp_BA;wp_HS;p_GS;;1;5
+4;19;BA-WW-EVWL;;;;;;Einführung in die Volkswirtschaftslehre;Prof. Dr. Marcel Thum;Prof. Dr. Marcel Thum;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+5;20;BA-WW-GRW;;;;;;Grundlagen des Rechnungswesens;Prof. Dr. Thomas Günther;Prof. Dr. Thomas Günther;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+6;21;BA-WW-JIF;;;;;;Jahresabschluss, Investition und Finanzierung;Prof. Dr. Michael Dobler;Prof. Dr. Michael Dobler;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+7;22;BA-WW-JUR;;;;;;Recht für Wirtschaftswissenschaftler;Studiendekan Juristische Fakultät;Studiendekan Juristische Fakultät;p_BA;p_BA;wp_HS;;;2;5
+8;23;BA-WW-MAK;;;;;;Einführung in die Makroökonomie;N.N.;N.N.;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+9;24;BA-WW-MAN;;;;;;Mathematik für Wirtschaftswissenschaftler: Analysis;Prof. Dr. Wolfgang Walter;Prof. Dr. Wolfgang Walter;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+10;25;BA-WW-MIK;;;;;;Einführung in die Mikroökonomie;Prof. Dr. Marco Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+11;26;BA-WW-MLA;;;;;;Mathematik für Wirtschaftswissenschaftler: Lineare Algebra;Prof. Dr. Wolfgang Walter;Prof. Dr. Wolfgang Walter;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+12;27;BA-WW-MNU;;;;;;Marketing und Nachhaltige Unternehmensführung;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+13;28;BA-WW-PL;;;;;;Produktion und Logistik;Prof. Dr. Udo Buscher;Prof. Dr. Udo Buscher;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+14;29;BA-WW-ERG-2601;;;;;BA-WW-PPSYCH;Pädagogische Psychologie;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_BA;p_BA;wp_HS;wp_HS;;1;5
+15;30;BA-WW-PRDB;;;;;;Programmierung und Datenbanken;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;p_BA;p_BA;p_GS;p_GS;p_BA_GS;2;5
+16;31;BA-WW-STAT;;;;;;Statistik;Professur für Verkehrsökonometrie und -statistik;Professur für Verkehrsökonometrie und -statistik;p_BA;p_BA;p_GS;p_GS;p_BA_GS;2;10
+17;32;BA-WW-SW;;;;;;Strategie und Wettbewerb;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+18;33;BA-WW-WINF;;D-WW-EWINF;;;;Einführung in die Wirtschaftsinformatik;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+19;34;BA-WW-WPA;;;;;;Wissenschaftliches und praktisches Arbeiten;AQUA-Beauftragter der Fakultät Wirtschaftswissenschaften;AQUA-Beauftragter der Fakultät Wirtschaftswissenschaften;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+20;35;;;D-WW-ETG;;;;Grundlagen der Elektrotechnik;Prof. Dr. phil. nat. habil. R. Tetzlaff;Prof. Dr. phil. nat. habil. R. Tetzlaff;;;p_GS;;p_GS-Wing;1;5
+21;36;;;D-WW-MV;;;;Mathematik Vertiefung;Prof. Dr. Wolfgang Walter;Prof. Dr. Wolfgang Walter;;;p_GS;;p_GS-Wing;1;5
+22;37;;;D-WW-PC;;;;Physik und Chemie;Studiendekan;Studiendekan;;;p_GS;;p_GS-Wing;1;5
+23;38;;;D-WW-TMSF;;;;Statik und Festigkeitslehre;Dr. Hantschke;Dr. Hantschke;;;p_GS;;p_GS-Wing;1;5
+24;39;;;D-WW-TV;;;;Technische Vertiefung;Studiendekan;Studiendekan;;;p_GS;;p_GS-Wing;1;5
+25;40;MA-WW-ERG-2610;;D-WW-ERG-2610;;;MA-WP-NTLL;Neuere Theorien des Lehrens und Lernens;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;p_MA;wp_HS;wp_HS;;1;5
+26;42;MA-WW-FS;;D-WW-FS;;;;Forschungsseminar;Studiendekan Master Betriebswirtschaftslehre;Studiendekan Master Betriebswirtschaftslehre;p_MA;p_MA;p_HS;p_HS;p_MA_HS;1;10
+27;44;MA-WW-MG;;D-WW-MG;;;;Methodische Grundlagen;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;p_MA;p_MA;p_HS;p_HS;p_MA_HS;2;10
+28;46;MA-WW-PRA;;D-WW-PRA;;;;Praktikum;Prof. Dr. Udo Buscher;Prof. Dr. Udo Buscher;p_MA;p_MA;p_HS;p_HS;p_MA_HS;1;5
+29;47;BA-WW-QV;;D-WW-QV;;;;Quantitative Verfahren;Prof. Dr. Rainer Lasch;Prof. Dr. Rainer Lasch;p_BA;p_BA;p_GS;p_GS;p_BA_GS;1;5
+30;48;BA-WW-ERG-2412;;;;D-WW-WINF-2412;;Health Care Management;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;wp;wp;wp;wp;wp;1;5
+31;49;BA-WW-BWL-0211;;D-WW-WIWI-0211;;;;Corporate Social Responsibility;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+32;51;BA-WW-BWL-0213;;D-WW-WIWI-0213;;;;Nachhaltigkeitsmanagement in der Praxis;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+33;52;BA-WW-BWL-0215a;;D-WW-WIWI-0215a;;;;Stakeholdermanagement;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+34;54;BA-WW-BWL-0216;;D-WW-WIWI-0216;;;;Umweltringvorlesungen;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+35;55;BA-WW-BWL-0217a;;D-WW-WIWI-0217a;;;;Value Chain Management;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+36;57;BA-WW-BWL-0218;;D-WW-WIWI-0218;;;;Virtuelle Akademie Nachhaltigkeit- e-Learning-Angebot der deutschen Professoren für Nachhaltigkeitsmanagement;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+37;59;BA-WW-BWL-0301;;D-WW-WIWI-0301;;;;Ausgewählte Probleme des operativen Controlling;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+38;60;BA-WW-BWL-0304;;D-WW-WIWI-0304;;;;Grundlagen Controlling;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+39;61;BA-WW-BWL-0306;;D-WW-WIWI-0306;;;;Kostenorientierte Entscheidungen;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+40;62;BA-WW-BWL-0601;;D-WW-WIWI-0601;;;;Einführung in die Energiewirtschaft;Prof. Dr. Möst;Prof. Dr. D. Möst;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;10
+41;64;BA-WW-BWL-0603;;D-WW-WIWI-0603;;;;Erneuerbare Energien – Technologie und Potentiale;Prof. Dr. Möst;Prof. Dr. D. Möst;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;10
+42;66;BA-WW-BWL-0604;;D-WW-WIWI-0604;;;;Fallstudien in Energie und Umwelt;Prof. Dr. Möst;Prof. Dr. D. Möst;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+43;67;BA-WW-BWL-0703;;D-WW-WIWI-0703;;;;Innovations- und Produktmanagement;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;10
+44;68;BA-WW-BWL-0704;;D-WW-WIWI-0704;;;;Praktische Aspekte des Gründungs- und Innovationsmanagements;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+45;69;BA-WW-BWL-0706;;D-WW-WIWI-0706;;;;Unternehmerisches Handeln;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+46;70;BA-WW-BWL-0804;;D-WW-WIWI-0804;;;;Grundlagen des Finanzmanagements;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+47;71;BA-WW-BWL-0805;;D-WW-WIWI-0805;;;;Instrumente des Finanzmanagements;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+48;72;BA-WW-BWL-1008;;D-WW-WIWI-1008;;;;Operatives Produktionsmanagement ;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+49;74;BA-WW-BWL-1011;;D-WW-WIWI-1011;;;;Strategisches Produktionsmanagement;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+50;75;BA-WW-BWL-1105;;D-WW-WIWI-1105;;;;Fallstudienarbeit im virtuellen Klassenraum;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+51;76;BA-WW-BWL-1201;MA-WW-ING-1201;D-WW-ING-1201;;;;Arbeitsgestaltung;Prof. Dr.-Ing. Schmauder;Prof. Dr.-Ing. Schmauder;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+52;78;BA-WW-BWL-1202;MA-WW-ING-1202;D-WW-ING-1202;;;;Arbeitsorganisation;Prof. Schmauder;Prof. Dr.-Ing. Schmauder;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+53;80;BA-WW-BWL-1402;;D-WW-ERG-1402;;;;Informations- und Kommunikationswirtschaft;Prof. Dr. Stopka;Prof. Dr. U. Stopka;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+54;82;BA-WW-BWL-1502;;D-WW-WIWI-1502;;;;Distributionslogistik;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+55;83;BA-WW-BWL-1504;;D-WW-WIWI-1504;;;;Logistik mit SAP;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+56;84;BA-WW-BWL-1505;;D-WW-WIWI-1505;;;;Produktionslogistik;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+57;86;BA-WW-BWL-1506a;;D-WW-WIWI-1506a;;;;Supply Chain Management – Grundlagen;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+58;88;BA-WW-BWL-1509;;D-WW-WIWI-1509;;;;Mathematische Planungsverfahren;Prof. Dr. Rainer Lasch;Prof. Dr. Rainer Lasch;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+59;89;BA-WW-BWL-1705;;D-WW-WIWI-1705;;;;Marketing-Mix;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+60;90;BA-WW-BWL-2003;;D-WW-WIWI-2003;;;;Organisationmanagement;Prof. Dr. Schirmer;Prof. Dr. F. Schirmer;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+61;91;BA-WW-BWL-2301a;;D-WW-WIWI-2301a;;;;Internationales Management;Jun.-Prof. Dr. Duchek;Jun.-Prof. Dr. S. Duchek;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+62;92;BA-WW-BWL-2303a;;D-WW-WIWI-2303a;;;;Strategisches Management;leer;leer;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+63;93;BA-WW-BWL-2411;;;;D-WW-WINF-2411;;Quality Management;Prof. Dr. Werner Esswein;Prof. Dr. Werner Esswein;wp;wp;wp;wp;wp;1;5
+64;95;BA-WW-BWL-2502;;;;;;Grundlagen der Verkehrs- und Infrastrukturpolitik;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+65;97;BA-WW-BWL-2503;;;;;;Grundlagen der Verkehrswirtschaft und Verkehrspolitik;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+66;99;BA-WW-BWL-2803;;;;;;Ertragssteuern;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+67;100;BA-WW-BWL-2804;;;;;;Grundlagen der Unternehmensbesteuerung;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+68;101;BA-WW-BWL-2806;;;;;;Internationale Rechnungslegung;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+69;102;BA-WW-BWL-2807;;;;;;Konzernrechnungslegung;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+70;103;BA-WW-ERG-0410;;;;D-WW-WINF-0410;;Dienstleistungsmanagement;Prof. Dr. Hilbert;Prof. Dr. Andreas Hilbert;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+71;105;BA-WW-ERG-1104;;;;D-WW-WINF-1104;;Gestaltungsansätze der Informationswirtschaft;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+72;106;BA-WW-ERG-1109;;;;D-WW-WINF-1109;;Ansätze des Informationsmanagements für die Betriebswirtschaft;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+73;107;BA-WW-ERG-1110a;;;;D-WW-WINF-1110a;;Strategisches Informationsmanagement und e Government;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+74;108;BA-WW-ERG-1201;;;;D-WW-WINF-1201;;ERP-gestützte Geschäftsprozesse;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+75;110;BA-WW-ERG-1202;;;;D-WW-WINF-1202;;ERP-Planspiel;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp;wp;wp;wp;wp;1;5
+76;112;BA-WW-ERG-1203;;;;D-WW-WINF-1203;;Grundlagen Betrieblicher Anwendungssysteme;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp;wp;wp;wp;wp;1;5
+77;113;BA-WW-ERG-1205;;;;D-WW-WINF-1205;;IT-Management und -Architekturkonzepte;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp;wp;wp;wp;wp;1;5
+78;115;BA-WW-ERG-1206;;;;D-WW-WINF-1206;;SAP-Anwendungen;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp;wp;wp;wp;wp;2;5
+79;116;BA-WW-ERG-1902;;;;;;Empirische Ökonometrie;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+80;117;BA-WW-ERG-1906a;;;;;;Ökonometrie – Grundlagen;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+81;118;BA-WW-ERG-1907a;;;;;;Ökonometrie – Vertiefung ;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+82;119;BA-WW-ERG-1908;;;;;;Ökonometrische Analyseverfahren;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+83;120;BA-WW-ERG-2210;;;;;;Angewandte Multivariate Statistik;Prof. Dr. Ostap Okhrin;Prof. Dr. Ostap Okhrin;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+84;121;BA-WW-ERG-2211;;;;;;Theoretische Multivariate Statistik;Prof. Dr. Ostap Okhrin;Prof. Dr. Ostap Okhrin;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+85;122;BA-WW-ERG-2401;;;;D-WW-WINF-2401;;Agiles Projektmanagement;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+86;123;BA-WW-ERG-2406;;;;D-WW-WINF-2406;;Health Information Management;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+87;125;BA-WW-ERG-2407;;;;D-WW-WINF-2407;;Projektseminar Software Development;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp;wp;wp;wp;wp;1;5
+88;127;BA-WW-ERG-2408;;;;D-WW-WINF-2408;;Prozess- und Qualitätsmanagement im Gesundheitswesen;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp;wp;wp;wp;wp;1;5
+89;128;BA-WW-ERG-3001;;;;;;Einführung in die Berufs- und Wissenschaftssprache;Studiendekan Wirtschaftswissenschaften;Studiendekan Wirtschaftswissenschaften;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;2;5
+90;130;BA-WW-ERG-3002;;;;;;Elementarkurs Fremdsprache;Studiendekan Wirtschaftswissenschaften;Studiendekan Wirtschaftswissenschaften;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;2;5
+91;132;BA-WW-ERG-3004;;;;;;Fremdsprachliche Fachkommunikation;Studiendekan Wirtschaftswissenschaften;Studiendekan Wirtschaftswissenschaften;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1,5;5
+92;133;BA-WW-VWL-0901;;;;;;Aktuelle Fragen der Finanzwissenschaft;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+93;134;BA-WW-VWL-0902a;;;;;;Arbeitsmarktpolitik;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+94;135;BA-WW-VWL-0904;;;;;;Demographischer Wandel und seine Folgen;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+95;136;BA-WW-VWL-0905a;;;;;;Entwicklungspolitik;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+96;137;BA-WW-VWL-090a;;;;;;Konzepte empirischer Wirtschaftsforschung;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+97;138;BA-WW-VWL-0908;;;;;;Öffentliche Einnahmen;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+98;139;BA-WW-VWL-0909a;;;;;;Ökonomische Theorie der Politik;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+99;140;BA-WW-VWL-0910;;;;;;Rechtfertigung der Staatstätigkeit;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+100;141;BA-WW-VWL-1305a;;;;;;International Trade: Theory and Policy;Prof. Dr. Kreickemeier;Prof. Dr. Udo Kreickemeier;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+101;142;BA-WW-VWL-1309;;;;;;Open Economy Macroeconomics;Prof. Dr. Kreickemeier;Prof. Dr. Udo Kreickemeier;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+102;143;BA-WW-VWL-1602;;;;;;Industrieökonomik Grundlagen;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+103;144;BA-WW-VWL-1603;;;;;;Industrieökonomik Vertiefung;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+104;145;BA-WW-VWL-1803;;;;;;Geld und Währung;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+105;146;BA-WW-VWL-1806;;;;;;Geldpolitik;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+106;147;BA-WW-VWL-1807;;;;;;Aktuelle Fragestellungen der Geldpolitik;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+107;148;BA-WW-VWL-2103;;;;;;Europäische Integration und regionale Entwicklung;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+108;149;BA-WW-VWL-2105;;;;;;Regional- und Stadtökonomie;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+109;150;BA-WW-VWL-2501;;;;;;Aktuelle Fragen der Verkehrspolitik;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+110;151;BA-WW-VWL-2507;;;;;;Wettbewerb und Regulierung;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+111;152;BA-WW-VWL-2703;;;;;;Europäische Wirtschaftspolitik;Prof. Dr. Kemnitz;Prof. Dr. Alexander Kemnitz;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+112;153;BA-WW-VWL-2706;;;;;;Verteilungstheorie und -politik;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+113;154;BA-WW-VWL-2707;;;;;;Wirtschaftliches Wachstum;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+114;155;BA-WW-WINF-0411;;;;D-WW-WINF-0411;;Applied Data Analysis;Dipl.Wirtsch.-Inf. Kai Heinrich;Dipl.Wirtsch.-Inf. Kai Heinrich;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+115;156;BA-WW-ERG-2606a;;;;;BA-WW-WP-2606a;Grundlagen des Personalmanagements;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+116;157;BA-WW-ERG-2607;;;;;BA-WW-WP-2607;Ausgewählte Aspekte des Personalmanagements – Grundlagen;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_BA;wp_BA;wp_HS;wp_HS;wp_BA_HS;1;5
+117;159;;;D-WW-ETDN;;;;Dynamische Netzwerke;Prof. Dr. phil. nat. habil. R. Tetzlaff;Prof. Dr. phil. nat. habil. R. Tetzlaff;;;wp_GS;;wp_GS_Wing;1;5
+118;160;;;D-WW-ETEMF;;;;Elektrische und magnetische Felder;Prof. Dr. phil. nat. habil. R. Tetzlaff;Prof. Dr. phil. nat. habil. R. Tetzlaff;;;wp_GS;;wp_GS_Wing;1;5
+119;161;;;D-WW-ING-1706;;;;Betriebsplanung im Öffentlichen Personennahverkehr;Prof. Dr.-Ing. R. König;Prof. Dr.-Ing. R. König;;;wp_HS;;wp_HS_Wing;1;5
+120;163;;;D-WW-ING-1707;;;;Betriebsplanung Öffentlicher Verkehrssysteme;Prof. Dr.-Ing. R. König;Prof. Dr.-Ing. R. König;;;wp_HS;;wp_HS_Wing;1;5
+121;164;;;D-WW-ING-1708a;;;;Betriebsprozesse und Betriebsplanung im Bahnverkehr;Doz. Dr. Matthias Bär;Doz. Dr. Matthias Bär;;;wp_HS;;wp_HS_Wing;1;5
+122;165;;;D-WW-ING-1712a;;;;Elektrische Bahnen;Prof. Stephan;Prof. Stephan;;;wp_HS;;wp_HS_Wing;2;10
+123;166;;;D-WW-ING-1718;;;;Marktorientierte Leistungserstellung in Reise- und Logistikketten;Prof. Dr.-Ing. R. König;Prof. Dr.-Ing. R. König;;;wp_HS;;wp_HS_Wing;1;5
+124;168;;;D-WW-ING-1737;;;;Spezielle Probleme der Verkehrsprozessautomatisierung;Prof. Jürgen Krimmling;Prof. Jürgen Krimmling;;;wp_HS;;wp_HS_Wing;1;5
+125;169;;;D-WW-IS-3101;;;;Interdisziplinäre Qualifikationen – Grundlagen;Studiendekan Wirtschaftsingenieurwesen;Studiendekan Wirtschaftsingenieurwesen;;;wp_HS;;wp_HS_Wing;1;5
+126;170;;;D-WW-IS-3102;;;;Interdisziplinäre Qualifikationen – Vertiefung;Studiendekan Wirtschaftsingenieurwesen;Studiendekan Wirtschaftsingenieurwesen;;;wp_HS;;wp_HS_Wing;1;10
+127;171;;;D-WW-TMKK;;;;Kinematik und Kinetik;Dr. Hantschke;Dr. Hantschke;;;wp_HS;;wp_HS_Wing;1;5
+128;172;;;D-WW-TMV;;;;Technische Mechanik Vertiefung;Dr. Werdin;Dr. Werdin;;;wp_HS;;wp_HS_Wing;1;5
+129;174;MA-WW-BWL-2618;;D-WW-WIWI-2618;;;MA-WP-BWL-2618;Ausgewählte Aspekte des Personalmanagements – Vertiefung ;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+130;176;MA-WW-BWL-2619;;D-WW-WIWI-2619;;;MA-WP-BWL-2619;Ausgewählte Aspekte des Personalmanagements – Spezialisierung ;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+131;178;MA-WW-BWL-2651;;D-WW-WIWI-2651;;;MA-WP-BWL-2651;Ausgewählte Themen des Personalmanagements;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+132;180;MA-WW-ERG-2611;;D-WW-ERG-2611;;;MA-WP-WP-MML;Multimediales Lernen;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;p_MA/wp_MA;wp;wp;wp_MA_HS;1;5
+133;182;MA-WW-ERG-2612;;D-WW-ERG-2612;;;MA-WP-WP-2612;Lernen im Prozess der Arbeit;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+134;184;MA-WW-ERG-2613;;D-WW-ERG-2613;;;MA-WP-WP-2613;Aktuelle Fragen des organisationalen Lernens;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+135;186;MA-WW-ERG-2614;;D-WW-ERG-2614;;;MA-WP-WP-2614;Aktuelle Fragen in der Theorie und Praxis der kaufmännischen Aus- und Weiterbildung;Prof. Dr. Bärbel Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+136;188;MA-WW-BWL-0207a;;D-WW-WIWI-0207a;;;;Studienprojekte in Energie und Umwelt;Prof. Dr. E. Günther;Prof. Dr. Edeltraud Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+137;190;MA-WW-BWL-0210a;;D-WW-WIWI-0210a;;;;Content Analysis;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+138;192;MA-WW-BWL-0212a;;D-WW-WIWI-0212a;;;;Nachhaltigkeitscontrolling;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+139;194;MA-WW-BWL-0214;;D-WW-WIWI-0214;;;;Ressourcenmanagement;Prof. Dr. Edeltraud Günther;Prof. Dr. Edeltraud Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+140;196;MA-WW-BWL-0250;;D-WW-WIWI-0250;;;;Aktuelle Themen der betrieblichen Umweltökonomie;Prof. Dr. E. Günther;Prof. Dr. Edeltraud Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+141;197;MA-WW-BWL-0302;;D-WW-WIWI-0302;;;;Ausgewählte Probleme und Methoden des Accounting & Finance;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+142;199;MA-WW-BWL-0303;;D-WW-WIWI-0303;;;;Cost, Time and Quality Management;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+143;200;MA-WW-BWL-0305;;D-WW-WIWI-0305;;;;Jahresabschlussanalyse;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+144;201;MA-WW-BWL-0307;;D-WW-WIWI-0307;;;;Integriertes Management immaterieller Ressourcen;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+145;202;MA-WW-BWL-0308;;D-WW-WIWI-0308;;;;Strategisches Controlling;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+146;203;MA-WW-BWL-0309a;;D-WW-WIWI-0309a;;;;Fallstudie: Finanzanalysenbericht;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;2;5
+147;205;MA-WW-BWL-0310;;D-WW-WIWI-0310;;;;Unternehmensbewertung und wertorientiertes Controlling;Prof. Dr. Th. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+148;206;MA-WW-BWL-0350;;D-WW-WIWI-0350;;;;Aktuelle Themen des Betrieblichen Rechnungswesens;Prof. Dr. T. Günther;Prof. Dr. Thomas Günther;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+149;207;MA-WW-BWL-0501;;D-WW-WIWI-0501;;;;Aktuelle Forschungsfragen des Car Business Management;Prof. Gerhard Golze / Prof. Dr. Florian Siems;Prof. Gerhard Golze / Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+150;209;MA-WW-BWL-0502;;D-WW-WIWI-0502;;;;Marktmanagement und Marketing in der Automobilwirtschaft;Prof. Gerhard Golze;Prof. Gerhard Golze;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+151;210;MA-WW-BWL-0503;;D-WW-WIWI-0503;;;;Schlüsselfaktoren im Car Business Management;Prof. Dr. Udo Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+152;211;MA-WW-BWL-0602;;D-WW-WIWI-0602;;;;Elektrizitätswirtschaft;Prof. Dr. Möst;Prof. Dr. D. Möst;;;;;;1;10
+153;212;MA-WW-BWL-0605a;;D-WW-WIWI-0605a;;;;Ressourcenökonomie und Umweltpolitik;Prof. Dr. Möst;Prof. Dr. D. Möst;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;10
+154;214;MA-WW-BWL-0606;;D-WW-WIWI-0606;;;;Risikoquantifizierung und -management in der Energiewirtschaft;Prof. Dr. Möst;Prof. Dr. D. Möst;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+155;215;MA-WW-BWL-0650;;D-WW-WIWI-0650;;;;Aktuelle Themen der Energiewirtschaft;Prof. Dr. D. Möst;Prof. Dr. D. Möst;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+156;216;MA-WW-BWL-0701;;D-WW-WIWI-0701;;;;Aktuelle Themen zum Gründungsmanagement;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;10
+157;218;MA-WW-BWL-0702;;D-WW-WIWI-0702;;;;Finanzieren mit Venture Capital;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;10
+158;219;MA-WW-BWL-0705;;D-WW-WIWI-0705;;;;Technologiemanagement;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+159;220;MA-WW-BWL-0750;;D-WW-WIWI-0750;;;;Aktuelle Themen des Entrepreneurship und der Innovation;Prof. Dr. M. Schefczyk;Prof. Dr. Michael Schefczyk;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+160;222;MA-WW-BWL-0801;;D-WW-WIWI-0801;;;;Asset Management;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+161;223;MA-WW-BWL-0802;;D-WW-WIWI-0802;;;;Capital Markets;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+162;224;MA-WW-BWL-0803;;D-WW-WIWI-0803;;;;Derivate und Risikomanagement;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+163;225;MA-WW-BWL-0806a;;D-WW-WIWI-0806a;;;;Konzepte des Asset- und Risikomanagements;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;2;5
+164;227;MA-WW-BWL-0807;;D-WW-WIWI-0807;;;;Empirical and Corporate Finance;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+165;228;MA-WW-BWL-0808;;D-WW-WIWI-0808;;;;Professionelles Portfoliomanagement;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+166;230;MA-WW-BWL-0850;;D-WW-WIWI-0850;;;;Aktuelle Themen der Finanzwirtschaft und Finanzdienstleistungen;Prof. Dr. Locarek-Junge;Prof. Dr. Locarek-Junge;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+167;231;MA-WW-BWL-1001;;D-WW-WIWI-1001;;;;Advanced Approaches in Industrial Management;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+168;232;MA-WW-BWL-1002;;D-WW-WIWI-1002;;;;Aktuelle Forschungsfragen des Industriellen Managements;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+169;233;MA-WW-BWL-1004a;;D-WW-WIWI-1004a;;;;Inventory Management;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+170;235;MA-WW-BWL-1005a;;D-WW-WIWI-1005a;;;;Instrumente und Anwendungen des Industriellen Managements;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+171;236;MA-WW-BWL-1010;;D-WW-WIWI-1010;;;;Strategic Algorithm Pattern for Industrial Optimization;Dr. Liji Shen;Dr. Liji Shen;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+172;238;MA-WW-BWL-1012;;D-WW-WIWI-1012;;;;Umweltorientierte Produktionsplanung;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+173;239;MA-WW-BWL-1013;;D-WW-WIWI-1013;;;;IM Challenge;Prof. Dr. Udo Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+174;241;MA-WW-BWL-1050;;D-WW-WIWI-1050;;;;Aktuelle Themen des Industriellen Management;Prof. Dr. Udo Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+175;242;MA-WW-BWL-1203;MA-WW-ING-01203;D-WW-ING-1203;;;;Arbeitspsychologie;Dr.rer.nat. Joiko;Dr.rer.nat. Joiko;wp_MA;;wp;;;1;5
+176;244;MA-WW-BWL-1204;MA-WW-ING-01204;D-WW-ING-1204;;;;Ergonomie;Dr.-Ing. C. Kamusella;Dr.-Ing. C. Kamusella;wp_MA;;wp;;;1;5
+177;246;MA-WW-BWL-1501;;D-WW-WIWI-1501;;;;Beschaffungsmanagement;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+178;247;MA-WW-BWL-1503;;D-WW-WIWI-1503;;;;Logistik-Fallstudien;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+179;248;MA-WW-BWL-1507;;D-WW-WIWI-1507;;;;Supply Chain Management – Vertiefung;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+180;250;MA-WW-BWL-1508a;;D-WW-WIWI-1508a;;;;Logistics Projects;Prof. Dr. Lasch;Prof. Dr. Rainer Lasch;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+181;251;MA-WW-BWL-1550;;D-WW-WIWI-1550;;;;Akteulle Themen der Logistik;Prof. Dr. R. Lasch;Prof. Dr. Rainer Lasch;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+182;252;MA-WW-BWL-1701a;;D-WW-WIWI-1701a;;;;Anwendung der Marktforschung;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+183;253;MA-WW-BWL-1702;;D-WW-WIWI-1702;;;;Marketing Literature Review;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+184;254;MA-WW-BWL-1703;;D-WW-WIWI-1703;;;;Marketing Science – interaktiv;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+185;255;MA-WW-BWL-1704;;D-WW-WIWI-1704;;;;Marketing Science;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+186;256;MA-WW-BWL-1706;;D-WW-WIWI-1706;;;;Marktforschung;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+187;257;MA-WW-BWL-1707a;;D-WW-WIWI-1707a;;;;Projektseminar zum Marketing;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+188;258;MA-WW-BWL-1708;;D-WW-WIWI-1708;;;;Relationship-Marketing;Prof. Dr. Florian Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+189;259;MA-WW-BWL-1750;;D-WW-WIWI-1750;;;;Aktuelle Themen des Marketing;Prof. Dr. F. Siems;Prof. Dr. Florian Siems;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+190;260;MA-WW-BWL-2001a;;D-WW-WIWI-2001a;;;;Management des Wandels;Prof. Dr. Schirmer;Prof. Dr. F. Schirmer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+191;261;MA-WW-BWL-2002;;D-WW-WIWI-2002;;;;Management von Strategie, Struktur und Verhalten;Prof. Dr. Schirmer;Prof. Dr. F. Schirmer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+192;262;MA-WW-BWL-2005;;D-WW-WIWI-2005;;;;Management und Organisation Theory;Prof. Dr. Schirmer;Prof. Dr. F. Schirmer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+193;263;MA-WW-BWL-2050;;D-WW-WIWI-2050;;;;Aktuelle Themen der Organisation;Prof. Dr. F. Schirmer;Prof. Dr. F. Schirmer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+194;264;MA-WW-BWL-2302a;;D-WW-WIWI-2302a;;;;Strategic Human Resource Management;Jun.Prof. Dr. Duchek;Jun.-Prof. Dr. S. Duchek;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+195;265;MA-WW-BWL-2350;;D-WW-WIWI-2350;;;;Aktuelle Themen des strategischen Managements;Dr. S. Duchek;Jun.-Prof. Dr. S. Duchek;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+196;266;MA-WW-BWL-2801;;D-WW-WIWI-2801;;;;Advanced International Financial Reporting;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+197;267;MA-WW-BWL-2802;;D-WW-WIWI-2802;;;;Ausgewählte Problemfelder der Steuerlehre;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_MA;wp_MA;wp;wp;wp_MA_HS;2;5
+198;268;MA-WW-BWL-2805;;D-WW-WIWI-2805;;;;Handelsrechtliche Rechnungslegung und Abschlussprüfung;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+199;270;MA-WW-BWL-2808;;D-WW-WIWI-2808;;;;Regulierung und Ökonomie der Rechnungslegung;Prof. Dr. Dobler;Prof. Dr. Michael Dobler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+200;272;MA-WW-BWL-2850;;D-WW-WIWI-2850;;;;Aktuelle Themen der Wirtschaftsprüfung und Steuerlehre;Prof. Dr. M. Dobler;Prof. Dr. Michael Dobler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+201;273;MA-WW-ERG-1003;;D-WW-ERG-1003;;;;Aktuelle Forschungsfragen des Operations Research;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+202;274;MA-WW-ERG-1006;;D-WW-ERG-1006;;;;Methoden des Operations Research;N.N.;N.N.;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+203;275;MA-WW-ERG-1007;;D-WW-ERG-1007;;;;Operations Research Vertiefung;Prof. Dr. Buscher;Prof. Dr. Udo Buscher;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+204;276;MA-WW-ERG-1009a;;D-WW-ERG-1009a;;;;Simulation und Modellierung;PD Dr.-Ing. Gerald Weigert;PD Dr.-Ing. Gerald Weigert;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+205;277;MA-WW-ERG-1102;;;;D-WW-WINF-1102;;Gestaltungsansätze im Informationsmanagement;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+206;278;MA-WW-ERG-1108;;;;D-WW-WINF-1108;;Ansätze des Informationsmanagements in der Wirtschaftsinformatik;Prof. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+207;279;MA-WW-ERG-1204;;D-WW-WIWI-1204;;;;IT-Anwendungssysteme im Gesundheitswesen;Prof. Dr. Strahringer;Prof. Dr. S. Strahringer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+208;281;MA-WW-ERG-1401;;D-WW-ERG-1401;;;;Aktuelle Aspekte der Informations- und Kommunikationswirtschaft;Prof. Dr. Stopka;Prof. Dr. U. Stopka;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+209;282;MA-WW-ERG-1403;;D-WW-ERG-1403;;;;Management in der Informations- und Kommunikationswirtschaft;Prof. Dr. Stopka;Prof. Dr. U. Stopka;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+210;284;MA-WW-ERG-1404;;D-WW-ERG-1404;;;;Netzökonomik der Informations- und Kommunikationswirtschaft;Prof. Dr. Stopka;Prof. Dr. U. Stopka;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+211;286;MA-WW-ERG-1450;;D-WW-ERG-1450;;;;Aktuelle Themen der Kommunikationswirtschaft;Prof. Dr. U. Stopka;Prof. Dr. U. Stopka;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+212;287;MA-WW-ERG-1901;;D-WW-ERG-1901;;;;Aktuelle Fragen der Ökonometrie;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+213;288;MA-WW-ERG-1903;;D-WW-ERG-1903;;;;Evaluierung von Gesundheitsleistungen;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+214;289;MA-WW-ERG-1904a;;D-WW-ERG-1904a;;;;Mikroökonometrie;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+215;290;MA-WW-ERG-1905;;D-WW-ERG-1905;;;;Multivariate Statistik;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+216;291;MA-WW-ERG-1909a;;D-WW-ERG-1909a;;;;Zeitreihenökonometrie;Prof. Dr. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+217;292;MA-WW-ERG-1910;;D-WW-ERG-1910;;;;Ökonometrische Analysen mit R;Prof. Dr. Berhard Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+218;293;MA-WW-ERG-1950;;D-WW-ERG-1950;;;;Aktuelle Themen der Ökonometrie;Prof. Dr. B. Schipp;Prof. Dr. Berhard Schipp;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+219;294;MA-WW-ERG-2101;;D-WW-ERG-2101;;;;Aktuelle Fragen der Raumwirtschaft;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+220;295;MA-WW-ERG-2250;;D-WW-ERG-2250;;;;Aktuelle Themen der Statistik;Prof. Dr. S. Huschens;Prof. Dr. S. Huschens;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+221;296;MA-WW-ERG-2504;;D-WW-ERG-2504;;;;Kosten und Preise im Verkehr;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+222;297;MA-WW-ERG-2505;;D-WW-ERG-2505;;;;Kosten-Nutzen-Analyse im Verkehrswesen;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+223;298;MA-WW-ERG-2506;;D-WW-ERG-2506;;;;Methoden der Verkehrspolitik;Prof. Dr. Wieland;Prof. Dr. B. Wieland;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+224;300;MA-WW-ERG-2550;;D-WW-ERG-2550;;;;Aktuelle Themen der Verkehrswirtschaft;Prof. Dr. B. Wieland;Prof. Dr. B. Wieland;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+225;301;MA-WW-ERG-2650;;D-WW-ERG-2650;;;;Aktuelle Themen der Wirtschaftspädagogik;Prof. Dr. B. Fürstenau;Prof. Dr. Bärbel Fürstenau;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+226;302;MA-WW-ERG-2903;;D-WW-ERG-2903;;;;Aspects of International Studies;Auslandsbeauftragter;Auslandsbeauftragter;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+227;303;MA-WW-ERG-2904;;D-WW-ERG-2904;;;;International Studies;Auslandsbeauftragter;Auslandsbeauftragter;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;10
+228;304;MA-WW-ERG-2905;;D-WW-ERG-2905;;;;International Experience;Auslandsbeauftragter;Auslandsbeauftragter;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;15
+229;305;MA-WW-ERG-3004;;D-WW-ERG-3004;;;;Tutorielle Tätigkeit;Studiendekan;Studiendekan;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+230;306;MA-WW-ERG-3006;;D-WW-ERG-3006;;;;Tutorielle Tätigkeit Ingenieurwissenschaften;Studiendekan Wirtschaftsingenieurwesen;Studiendekan Wirtschaftsingenieurwesen;;;wp;;wp_Wing-MA-HS;1;5
+231;307;;MA-WW-ING-0101;D-WW-ING-0101;;;;Aufbauwissen der Bauausführung für WING;Prof. Dr. Jehle Prof. Dr. Schach;Prof. Dr. Jehle Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;10
+232;309;;MA-WW-ING-0102;D-WW-ING-0102;;;;Aufbauwissen der Bauplanung und Bauleitung für WING;Prof. Dr. Jehle Prof. Dr. Schach;Prof. Dr. Jehle Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;5
+233;310;;MA-WW-ING-0103;D-WW-ING-0103;;;;Bauen im Bestand: Instandsetzungsmethoden und -baustoffe;Prof. Dr. Mechtcherine;Prof. Dr. Mechtcherine;;;wp;;wp_Wing-MA-HS;2;10
+234;312;;MA-WW-ING-0104;D-WW-ING-0104;;;;Baukonstruktion – Bestehende Gebäude;Prof. Dr.-Ing. Bernhard Weller;Prof. Dr.-Ing. Bernhard Weller;;;wp;;wp_Wing-MA-HS;1;5
+235;313;;MA-WW-ING-0105;D-WW-ING-0105;;;;Baukonstruktion;Prof. Dr.-Ing. Bernhard Weller;Prof. Dr.-Ing. Bernhard Weller;;;wp;;wp_Wing-MA-HS;2;10
+236;314;;MA-WW-ING-0106;D-WW-ING-0106;;;;Baurecht für WING;Prof. Dr. Schach;Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;5
+237;315;;MA-WW-ING-0107;D-WW-ING-0107;;;;Baustoffliche Grundlagen sowie Organische und Metallische Baustoffe;Prof. Dr. Mechtcherine;Prof. Dr. Mechtcherine;;;wp;;wp_Wing-MA-HS;2;5
+238;317;;MA-WW-ING-0108;D-WW-ING-0108;;;;Anorganische nichtmetallische Baustoffe;Prof. Dr. Mechtcherine;Prof. Dr. Mechtcherine;;;wp;;wp_Wing-MA-HS;1;5
+239;319;;MA-WW-ING-0109a;D-WW-ING-0109a;;;;Baustoffmechanik: Anwendung der Bruchmechanik, Werkstoffmechanik im Massivbau;Prof. Dr. Mechtcherine;Prof. Dr. Mechtcherine;;;wp;;wp_Wing-MA-HS;2;5
+240;321;;MA-WW-ING-0110;D-WW-ING-0110;;;;Gewässerkunde und Grundlagen des Wasserbaus;Prof. Dr.-Ing. Stamm;Prof. Dr.-Ing. Stamm;;;wp;;wp_Wing-MA-HS;2;5
+241;323;;MA-WW-ING-0111;D-WW-ING-0111;;;;Grundlagen der Bauausführung für WING;Prof. Dr. Jehle Prof. Dr. Schach;Prof. Dr. Jehle Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;10
+242;325;;MA-WW-ING-0112;D-WW-ING-0112;;;;Grundlagen der Bauplanung für WING;Prof. Dr. Jehle Prof. Dr. Schach;Prof. Dr. Jehle Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;10
+243;327;;MA-WW-ING-0113a;D-WW-ING-0113a;;;;Grundlagen des Stahlbetonbaus;Prof. Curbach;Prof. Curbach;;;wp;;wp_Wing-MA-HS;1;5
+244;328;;MA-WW-ING-0114;D-WW-ING-0114;;;;Immobilienmanagement für WING;Prof. Dr. Forkel;Prof. Dr. Forkel;;;wp;;wp_Wing-MA-HS;1;5
+245;329;;MA-WW-ING-0115a;D-WW-ING-0115a;;;;Ingenieurbaustoffe und Nachhaltigkeit: Hochleistungsbetone, Baustofftechnik im Grundbau, Instandhaltung von Bauwerken und Umweltverträglichkeit von Baustoffen;Prof. Dr. Mechtcherine;Prof. Dr. Mechtcherine;;;wp;;wp_Wing-MA-HS;1;5
+246;331;;MA-WW-ING-0116;D-WW-ING-0116;;;;Projektentwicklung für WING;Prof. Dr. Jehle Prof. Dr. Schach;Prof. Dr. Jehle Prof. Dr. Schach;;;wp;;wp_Wing-MA-HS;2;5
+247;332;;MA-WW-ING-0117;D-WW-ING-0117;;;;Strahlbau und Holzbau Grundlagen;Univ.-Prof. Dr.-Ing. Stroetmann;Univ.-Prof. Dr.-Ing. Stroetmann;;;wp;;wp_Wing-MA-HS;1;5
+248;334;;MA-WW-ING-0118;D-WW-ING-0118;;;;Theorie und Berechnung von Tragwerken;Prof. Kaliske;Prof. Kaliske;;;wp;;wp_Wing-MA-HS;2;10
+249;336;;MA-WW-ING-0201a;D-WW-ING-0201a;;;;Theorie und Berechnung von Faserverbundstrukturen – Grundlagen;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+250;337;;MA-WW-ING-0202a;D-WW-ING-0202a;;;;Theorie und Berechnung von Faserverbundstrukturen – Vertiefung;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+251;338;;MA-WW-ING-0203a;D-WW-ING-0203a;;;;Theorie und Berechnung von Leichtbaustrukturen – Grundlagen;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+252;339;;MA-WW-ING-0204a;D-WW-ING-0204a;;;;Theorie und Berechnung von Leichtbaustrukturen – Vertiefung;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+253;340;;MA-WW-ING-0205a;D-WW-ING-0205a;;;;Faserverbundwerkstoffe und -technologien – Grundlagen;Prof. Jäger;Prof. Jäger;;;wp;;wp_Wing-MA-HS;1;5
+254;341;;MA-WW-ING-0206a;D-WW-ING-0206a;;;;Funktionsintegrative Leichtbaustrukturen;Prof. Modler;Prof. Modler;;;wp;;wp_Wing-MA-HS;1;5
+255;342;;MA-WW-ING-0207a;D-WW-ING-0207a;;;;Grundzüge des Leichtbaus;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+256;343;;MA-WW-ING-0209a;D-WW-ING-0209a;;;;Kunststofftechnik;Prof. Jäger;Prof. Jäger;;;wp;;wp_Wing-MA-HS;1;5
+257;344;;MA-WW-ING-0210a;D-WW-ING-0210a;;;;Kunststoffverarbeitung – Grundlagen;Prof. Jäger;Prof. Jäger;;;wp;;wp_Wing-MA-HS;1;5
+258;345;;MA-WW-ING-0211a;D-WW-ING-0211a;;;;Kunststoffverarbeitung – Vertiefung;Prof. Jäger;Prof. Jäger;;;wp;;wp_Wing-MA-HS;1;5
+259;346;;MA-WW-ING-0212a;D-WW-ING-0212a;;;;Qualitätssicherung;Prof. Modler;Prof. Modler;;;wp;;wp_Wing-MA-HS;1;5
+260;347;;MA-WW-ING-0213a;D-WW-ING-0213a;;;;Simulationstechnik für den Leichtbau;Prof. Gude;Prof. Gude;;;wp;;wp_Wing-MA-HS;1;5
+261;348;;MA-WW-ING-0214a;D-WW-ING-0214a;;;;Faserverbundwerkstoffe und -technologien – Vertiefung;Prof. Jäger;Prof. Jäger;;;wp;;wp_Wing-MA-HS;1;5
+262;349;;MA-WW-ING-0215a;D-WW-ING-0215a;;;;Verbindungstechniken;Prof. Modler;Prof. Modler;;;wp;;wp_Wing-MA-HS;1;5
+263;350;;MA-WW-ING-0216;D-WW-ING-0216;;;;Leichtbauweisen;Prof. Modler;Prof. Modler;;;wp;;wp_Wing-MA-HS;1;5
+264;351;;MA-WW-ING-0217;D-WW-ING-0217;;;;Kunststoffgerechtes Konstruieren;Prof. Modler;Prof. Modler;;;wp;;wp_Wing-MA-HS;1;5
+265;352;;MA-WW-ING-0301;D-WW-ING-0301;;;;Verfahren und Maschinen der Vliesstofftechnik und Textilrecycling;Prof. Krzywinski;Jun.-Prof. Krzywinski;;;wp;;wp_Wing-MA-HS;1;5
+266;354;;MA-WW-ING-0302;D-WW-ING-0302;;;;2D/3D-CAE-Technik für faserbasierte Materialien;Prof. Krzywinski;Jun.-Prof. Krzywinski;;;wp;;wp_Wing-MA-HS;1;5
+267;356;;MA-WW-ING-0303;D-WW-ING-0303;;;;Auslegung und Diagnostik von Textilmaschinen;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+268;358;;MA-WW-ING-0304;D-WW-ING-0304;;;;Funktionalisierung und Grenzschichtdesign;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+269;360;;MA-WW-ING-0305;D-WW-ING-0305;;;;Grundlagen der Textil- und Konfektionsmaschinen;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+270;362;;MA-WW-ING-0306;D-WW-ING-0306;;;;Grundlagen des Verarbeitungsmaschinen- und Textilmaschinenbaus;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+271;364;;MA-WW-ING-0307;D-WW-ING-0307;;;;Maschinen, Technologie und Chemie der faserbildenden Polymerwerkstoffe;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+272;366;;MA-WW-ING-0308;D-WW-ING-0308;;;;Produktionsorganisation und Qualitätssicherung;Prof. Rödel;Prof. Rödel;;;wp;;wp_Wing-MA-HS;1;5
+273;368;;MA-WW-ING-0309;D-WW-ING-0309;;;;Grundlagen der faserbasierten Hochleistungswerkstoffe und Prüftechnik;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+274;370;;MA-WW-ING-0310;D-WW-ING-0310;;;;Verfahren und Maschinen der faserbasierten Strukturen,  insbesondere der Fadenbildungstechnik;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+275;372;;MA-WW-ING-0311;D-WW-ING-0311;;;;Verfahren und Maschinen der Konfektionstechnik;Prof. Rödel;Prof. Rödel;;;wp;;wp_Wing-MA-HS;1;5
+276;374;;MA-WW-ING-0312;D-WW-ING-0312;;;;Verfahren und Maschinen der Technischen Textilien;Prof. Rödel;Prof. Rödel;;;wp;;wp_Wing-MA-HS;1;5
+277;376;;MA-WW-ING-0313;D-WW-ING-0313;;;;Verfahren und Maschinen der Textiltechnik/Hochleistungstextilien;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+278;378;;MA-WW-ING-0314;D-WW-ING-0314;;;;Verfahren und Maschinen für 2D-/3D-Textilkonstruktionen;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+279;380;;MA-WW-ING-0315;D-WW-ING-0315;;;;Konstruktiver Entwicklungsprozess zu Textilmaschinen;Prof. Cherif;Prof. Cherif;;;wp;;wp_Wing-MA-HS;1;5
+280;382;;MA-WW-ING-0401a;D-WW-ING-0401a;;;;Grundlagen des Verarbeitungsmaschinenbaus;Prof. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+281;384;;MA-WW-ING-0402;D-WW-ING-0402;;;;Konstruktiver Entwicklungsprozess zu Verarbeitungsmaschinen;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;1;5
+282;386;;MA-WW-ING-0403a;D-WW-ING-0403a;;;;Projektierung von Verarbeitungsanlagen;Prof. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+283;388;;MA-WW-ING-0404a;D-WW-ING-0404a;;;;Verarbeitungsmaschinen;Prof. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+284;390;;MA-WW-ING-0405a;D-WW-ING-0405a;;;;Verarbeitungstechnik;Prof. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+285;392;;MA-WW-ING-0406a;D-WW-ING-0406a;;;;Verpackungstechnik;Prof. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+286;394;;MA-WW-ING-0405a;D-WW-ING-0405a;;;;Bioaufarbeitungstechnik;Dr. B. Wessely;Dr. B. Wessely;;;wp;;wp_Wing-MA-HS;1;5
+287;395;;MA-WW-ING-0406a;D-WW-ING-0406a;;;;Getränketechnologie und Qualitätsmanagement;Dr. D. Jaros;Dr. D. Jaros;;;wp;;wp_Wing-MA-HS;2;5
+288;397;;MA-WW-ING-0501;D-WW-ING-0501;;;;Grundprozesse thermische Verfahrenstechnik;Prof. N. Mollekopf;Prof. N. Mollekopf;;;wp;;wp_Wing-MA-HS;1;5
+289;398;;MA-WW-ING-0502;D-WW-ING-0502;;;;Lebensmitteltechnische Grundverfahren;Prof. H. Rohm;Prof. H. Rohm;;;wp;;wp_Wing-MA-HS;2;5
+290;399;;MA-WW-ING-0503;D-WW-ING-0503;;;;Lebensmitteltechnologie;Prof. H. Rohm;Prof. H. Rohm;;;wp;;wp_Wing-MA-HS;2;5
+291;400;;MA-WW-ING-0504;D-WW-ING-0504;;;;Lebensmittelwissenschaft;Prof. H. Rohm;Prof. H. Rohm;;;wp;;wp_Wing-MA-HS;2;5
+292;402;;MA-WW-ING-0505;D-WW-ING-0505;;;;Maschinentechnik der Lebensmittelindustrie;Prof. J.-P. Majschak;Prof. J.-P. Majschak;;;wp;;wp_Wing-MA-HS;1;5
+293;404;;MA-WW-ING-0506;D-WW-ING-0506;;;;Grundlagen Holz- und Faserwerkstofferzeugung/Grundprozesse;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+294;405;;MA-WW-ING-0507a;D-WW-ING-0507a;;;;Grundlagen Holz- und Faserwerkstofferzeugung/Maschinen und Anlagen;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+295;407;;MA-WW-ING-0601;D-WW-ING-0601;;;;Grundlagen Holz- und Faserwerkstoffverarbeitung/Grundprozesse;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+296;408;;MA-WW-ING-0602;D-WW-ING-0602;;;;Grundlagen Holz- und Faserwerkstoffverarbeitung/Maschinen und Anlagen;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+297;409;;MA-WW-ING-0603;D-WW-ING-0603;;;;Grundlagen Holzanatomie;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+298;410;;MA-WW-ING-0604;D-WW-ING-0604;;;;Holzschutz;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+299;411;;MA-WW-ING-0605;D-WW-ING-0605;;;;Physikalische Grundlagen Holz- und Faserwerkstofftechnik;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;5
+300;412;;MA-WW-ING-0606;D-WW-ING-0606;;;;Grundlagen Verfahrenstechnik und Naturstofftechnik;Prof. A. Wagenführ;Prof. A. Wagenführ;;;wp;;wp_Wing-MA-HS;1;10
+301;414;;MA-WW-ING-0607;D-WW-ING-0607;;;;Elektrische Raumfahrtantriebe und Zukunftskonzepte;Prof. Dr. M. Tajmar;Prof. Dr. Martin Tajmar;;;wp;;wp_Wing-MA-HS;1;5
+302;415;;MA-WW-ING-0608;D-WW-ING-0608;;;;Energiesysteme für Raumfahrzeuge;Dr. T. Schmiel;Dr. T. Schmiel;;;wp;;wp_Wing-MA-HS;1;5
+303;416;;MA-WW-ING-0701a;D-WW-ING-0701a;;;;Entwurf von Raumfahrzeugen;Dr. T. Schmiel;Dr. T. Schmiel;;;wp;;wp_Wing-MA-HS;2;5
+304;417;;MA-WW-ING-0702;D-WW-ING-0702;;;;Flugmechanik;Prof. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+305;418;;MA-WW-ING-0703a;D-WW-ING-0703a;;;;Flugzeugaerodynamik;Dr. V. Hildebrand;Dr. V. Hildebrand;;;wp;;wp_Wing-MA-HS;1;5
+306;419;;MA-WW-ING-0704;D-WW-ING-0704;;;;Flugzeuginstandhaltung;Prof. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+307;420;;MA-WW-ING-0705a;D-WW-ING-0705a;;;;Grundlagen der Aerodynamik;Prof. J. Fröhlich;Prof. J. Fröhlich;;;wp;;wp_Wing-MA-HS;1;5
+308;421;;MA-WW-ING-0706;D-WW-ING-0706;;;;Luftfahrtantriebe;Prof. Ronald Mailach;Prof. Ronald Mailach;;;wp;;wp_Wing-MA-HS;1;5
+309;422;;MA-WW-ING-0707;D-WW-ING-0707;;;;Luftfahrzeugauslegung;Prof. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+310;423;;MA-WW-ING-0708;D-WW-ING-0708;;;;Luftfahrzeugfertigung;Prof. K. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+311;424;;MA-WW-ING-0709;D-WW-ING-0709;;;;Luftfahrzeugkonstruktion;Prof. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+312;426;;MA-WW-ING-0710;D-WW-ING-0710;;;;Luftfahrzeugsysteme;Prof. K. Wolf;Prof. K. Wolf;;;wp;;wp_Wing-MA-HS;1;5
+313;427;;MA-WW-ING-0711;D-WW-ING-0711;;;;Raumfahrtantriebe;Prof. M. Tajmar;Prof. Dr. Martin Tajmar;;;wp;;wp_Wing-MA-HS;1;5
+314;428;;MA-WW-ING-0712;D-WW-ING-0712;;;;Raumfahrtsysteme;Prof. Martin Tajmar;Prof. Dr. Martin Tajmar;;;wp;;wp_Wing-MA-HS;1;5
+315;429;;MA-WW-ING-0713;D-WW-ING-0713;;;;Satellitentechnik;Dr. T. Schmiel;Dr. T. Schmiel;;;wp;;wp_Wing-MA-HS;1;5
+316;430;;MA-WW-ING-0714;D-WW-ING-0714;;;;Interplanetare Raumfahrt-Missionen und Systeme;Prof. Dr. M. Tajmar;Prof. Dr. Martin Tajmar;;;wp;;wp_Wing-MA-HS;1;5
+317;431;;MA-WW-ING-0715;D-WW-ING-0715;;;;Strömungsmesstechnik;Dr. F. Rüdiger;Dr.-Ing. F. Rüdiger;;;wp;;wp_Wing-MA-HS;1;5
+318;433;;MA-WW-ING-0801;D-WW-ING-0801;;;;Betriebs- und Instandhaltung von Energieanlagen;Prof. Dr. Beckmann;Prof. Dr. Beckmann;;;wp;;wp_Wing-MA-HS;1;5
+319;434;;MA-WW-ING-0802;D-WW-ING-0802;;;;Energetische Nutzung von Biomasse;Dr. Joachim Brummack;Dr. Joachim Brummack;;;wp;;wp_Wing-MA-HS;1;5
+320;435;;MA-WW-ING-0803a;D-WW-ING-0803a;;;;Energieanlagen und Energieversorgung;Prof. Dr.-Ing. U. Gampe;Prof. Dr.-Ing. U. Gampe;;;wp;;wp_Wing-MA-HS;1;10
+321;437;;MA-WW-ING-0804;D-WW-ING-0804;;;;Energiesystemtechnik;Prof. Dr. Beckmann;Prof. Dr. Beckmann;;;wp;;wp_Wing-MA-HS;1;5
+322;438;;MA-WW-ING-0805;D-WW-ING-0805;;;;Energiewirtschaftliche Bewertung;Prof. Dr.-Ing. C. Felsmann;Prof. Dr.-Ing. C. Felsmann;;;wp;;wp_Wing-MA-HS;1;5
+323;439;;MA-WW-ING-0806;D-WW-ING-0806;;;;Gebäudeenergietechnik;Prof. Dr.-Ing. C. Felsmann;Prof. Dr.-Ing. C. Felsmann;;;wp;;wp_Wing-MA-HS;1;5
+324;440;;MA-WW-ING-0807;D-WW-ING-0807;;;;Grundlagen der Kältetechnik;Prof. Dr.-Ing. U. Hesse;Prof. Dr.-Ing. U. Hesse;;;wp;;wp_Wing-MA-HS;1;5
+325;441;;MA-WW-ING-0808;D-WW-ING-0808;;;;Kraftwerkstechnik;Prof. Dr. Beckmann;Prof. Dr. Beckmann;;;wp;;wp_Wing-MA-HS;1;10
+326;443;;MA-WW-ING-0809;D-WW-ING-0809;;;;Regenerative Energiequellen;Prof. Dr.-Ing. C. Felsmann;Prof. Dr.-Ing. C. Felsmann;;;wp;;wp_Wing-MA-HS;1;5
+327;444;;MA-WW-ING-0810;D-WW-ING-0810;;;;Technische Strömungslehre;Dr.-Ing. F. Rüdiger;Dr.-Ing. F. Rüdiger;;;wp;;wp_Wing-MA-HS;1;5
+328;445;;MA-WW-ING-0811;D-WW-ING-0811;;;;Technische Thermodynamik;Prof. Breitkopf/Prof. Beckmann;Prof. Breitkopf/Prof. Beckmann;;;wp;;wp_Wing-MA-HS;1;5
+329;446;;MA-WW-ING-0812;D-WW-ING-0812;;;;Projektmanagement für Wirtschaftsingenieure;Prof. Dr.-Ing. habil. A. Hurtado;Prof. Dr.-Ing. habil. A. Hurtado;;;wp;;wp_Wing-MA-HS;1;5
+330;447;;MA-WW-ING-0901a;D-WW-ING-0901a;;;;Fertigungsinformatik – Anwendung;Prof. Dr. habil. Nestler;Prof. Dr. habil. Nestler;;;wp;;wp_Wing-MA-HS;1;5
+331;449;;MA-WW-ING-0902;D-WW-ING-0902;;;;Fertigungsplanung;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+332;450;;MA-WW-ING-0903;D-WW-ING-0903;;;;Fertigungsplanung – Teilfertigung und Montage;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+333;452;;MA-WW-ING-0904a;D-WW-ING-0904a;;;;Fertigungstechnik und Produktion;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+334;454;;MA-WW-ING-0905a;D-WW-ING-0905a;;;;Fertigungsverfahren;Prof. Dr. habil. Beyer;Prof. Dr. habil. Beyer;;;wp;;wp_Wing-MA-HS;1;5
+335;455;;MA-WW-ING-0907;D-WW-ING-0907;;;;Fügbarkeit;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+336;457;;MA-WW-ING-0908;D-WW-ING-0908;;;;Grundlagen Werkzeugmaschinenentwicklung;Prof. Dr. Ihlenfeldt;Prof. Dr. Ihlenfeldt;;;wp;;wp_Wing-MA-HS;1;5
+337;458;;MA-WW-ING-0909;D-WW-ING-0909;;;;Handhabungs- Robotertechnik;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+338;460;;MA-WW-ING-0910;D-WW-ING-0910;;;;Messsystemtechnik;Prof. Dr. habil. Weise;Prof. Dr. habil. Weise;;;wp;;wp_Wing-MA-HS;1;5
+339;462;;MA-WW-ING-0911a;D-WW-ING-0911a;;;;Messtechnik und Automatisierung;Prof. Dr. habil. Weise;Prof. Dr. habil. Weise;;;wp;;wp_Wing-MA-HS;1;5
+340;464;;MA-WW-ING-0912;D-WW-ING-0912;;;;Mikro- und Nanotechnologien;Prof. Dr. habil. Beyer;Prof. Dr. habil. Beyer;;;wp;;wp_Wing-MA-HS;1;5
+341;466;;MA-WW-ING-0913;D-WW-ING-0913;;;;Präzisions-, Ultrapräzisions- und Mikrozerspanung;Prof. Dr. habil. Nestler;Prof. Dr. habil. Nestler;;;wp;;wp_Wing-MA-HS;1;5
+342;467;;MA-WW-ING-0914;D-WW-ING-0914;;;;Schweißfertigung und Mikrofügetechnik;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+343;469;;MA-WW-ING-0915;D-WW-ING-0915;;;;Umform- und Zerteiltechnik;Prof. Dr. Brosius;Prof. Dr. Brosius;;;wp;;wp_Wing-MA-HS;1;5
+344;470;;MA-WW-ING-0916;D-WW-ING-0916;;;;Umformtechnik;Prof. Dr. Brosius;Prof. Dr. Brosius;;;wp;;wp_Wing-MA-HS;1;5
+345;471;;MA-WW-ING-0917;D-WW-ING-0917;;;;Werkzeug- und Maschinentechnik;Prof. Dr. habil. Nestler;Prof. Dr. habil. Nestler;;;wp;;wp_Wing-MA-HS;1;5
+346;473;;MA-WW-ING-0918;D-WW-ING-0918;;;;Werkzeuggestaltung und -fertigung;Prof. Dr. Brosius;Prof. Dr. Brosius;;;wp;;wp_Wing-MA-HS;1;5
+347;474;;MA-WW-ING-0919;D-WW-ING-0919;;;;Werkstofftechnik;Prof. Ch. Leyens Dr. B. Vetter;Prof. Ch. Leyens Dr. B. Vetter;;;wp;;wp_Wing-MA-HS;2;10
+348;475;;MA-WW-ING-0906;D-WW-ING-0906;;;;Fertigungsverfahren – Vertiefung;Prof. Dr. habil. Füssel;Prof. Dr. habil. Füssel;;;wp;;wp_Wing-MA-HS;1;5
+349;477;;MA-WW-ING-01001;D-WW-ING-1001;;;;Fabrikplanung;Prof. Völker;Prof. Völker;;;wp;;wp_Wing-MA-HS;1;5
+350;479;;MA-WW-ING-01002;D-WW-ING-1002;;;;Materialflusssysteme;Prof. Schmidt;Prof. Schmidt;;;wp;;wp_Wing-MA-HS;1;5
+351;481;;MA-WW-ING-01003;D-WW-ING-1003;;;;Planungsprojekt und Forschung;Prof. Völker;Prof. Völker;;;wp;;wp_Wing-MA-HS;1;5
+352;483;;MA-WW-ING-01004;D-WW-ING-1004;;;;Produktionsmanagement;Prof. Völker;Prof. Völker;;;wp;;wp_Wing-MA-HS;1;5
+353;485;;MA-WW-ING-01005;D-WW-ING-1005;;;;Produktionssystem und Materialfluss;Prof. Völker;Prof. Völker;;;wp;;wp_Wing-MA-HS;1;5
+354;487;;MA-WW-ING-1006a;D-WW-ING-1006a;;;;Projektorganisation;Prof. Schmidt;Prof. Schmidt;;;wp;;wp_Wing-MA-HS;1;5
+355;489;;MA-WW-ING-01101;D-WW-ING-1101;;;;3D-Modellierung / Produktdatenmanagement;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;1;5
+356;490;;MA-WW-ING-1102a;D-WW-ING-1102a;;;;Designenwurfsprozess;Jun.-Prof. Krzywinski;Jun.-Prof. Krzywinski;;;wp;;wp_Wing-MA-HS;1;5
+357;491;;MA-WW-ING-1103a;D-WW-ING-1103a;;;;Konstruieren mit CAD-Systemen für WING;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;1;5
+358;492;;MA-WW-ING-01104;D-WW-ING-1104;;;;Konstruktionslehre;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;2;10
+359;494;;MA-WW-ING-01105;D-WW-ING-1105;;;;Konstruktionslehre Konstruktiver Entwicklungsprozess;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;1;5
+360;496;;MA-WW-ING-01106;D-WW-ING-1106;;;;Maschinenelemente für WING;Prof. Schlecht;Prof. Schlecht;;;wp;;wp_Wing-MA-HS;1;5
+361;497;;MA-WW-ING-1107a;D-WW-ING-1107a;;;;Virtuelle Produktentwicklung;Prof. Stelzer;Prof. Stelzer;;;wp;;wp_Wing-MA-HS;1;5
+362;498;;MA-WW-ING-1301a;D-WW-ING-1301a;;;;Elektrische Antriebe;Prof. Dr.-Ing. W. Hofmann;Prof. Dr.-Ing. W. Hofmann;;;wp;;wp_Wing-MA-HS;1;5
+363;499;;MA-WW-ING-1302a;D-WW-ING-1302a;;;;Elektrische Maschinen;Prof. Dr.-Ing. W. Hofmann;Prof. Dr.-Ing. W. Hofmann;;;wp;;wp_Wing-MA-HS;1;5
+364;500;;MA-WW-ING-01303;D-WW-ING-1303;;;;Elektroenergietechnik;Prof. Dr.-Ing. P. Schegner;Prof. Dr.-Ing. P. Schegner;;;wp;;wp_Wing-MA-HS;2;5
+365;502;;MA-WW-ING-01304;D-WW-ING-1304;;;;Grundlagen elektrischer Energieversorgungssysteme;Prof. Dr.-Ing. P. Schegner;Prof. Dr.-Ing. P. Schegner;;;wp;;wp_Wing-MA-HS;1;5
+366;504;;MA-WW-ING-01305;D-WW-ING-1305;;;;Hauptseminar Elektrische Energietechnik;Studienrichtungsleiter Elektroenergietechnik;Studienrichtungsleiter Elektroenergietechnik;;;wp;;wp_Wing-MA-HS;1;5
+367;505;;MA-WW-ING-1306a;D-WW-ING-1306a;;;;Hochspannungs- und Hochstromtechnik;Prof. Dr.-Ing. S. Großmann;Prof. Dr.-Ing. St. Großmann;;;wp;;wp_Wing-MA-HS;1;5
+368;506;;MA-WW-ING-01307;D-WW-ING-1307;;;;Leistungselektronik;Prof. Dr.-Ing. St. Bernet;Prof. Dr.-Ing. St. Bernet;;;wp;;wp_Wing-MA-HS;2;10
+369;508;;MA-WW-ING-01308;D-WW-ING-1308;;;;Netzberechnung;Prof. Dr.-Ing. P. Schegner;Prof. Dr.-Ing. P. Schegner;;;wp;;wp_Wing-MA-HS;1;5
+370;509;;MA-WW-ING-01309;D-WW-ING-1309;;;;Vertiefung Hochspannungstechnik;Prof. Dr.-Ing. St. Großmann;Prof. Dr.-Ing. St. Großmann;;;wp;;wp_Wing-MA-HS;1;5
+371;510;;MA-WW-ING-01310;D-WW-ING-1310;;;;Schaltungstechnik;PD Dr.-Ing. habil. V. Müller;PD Dr.-Ing. habil. V. Müller;;;wp;;wp_Wing-MA-HS;1;5
+372;511;;MA-WW-ING-01311;D-WW-ING-1311;;;;Regelung elektrischer Systeme;PD. Dr.-Ing. habil. G.-H. Geitner;PD. Dr.-Ing. habil. G.-H. Geitner;;;wp;;wp_Wing-MA-HS;1;5
+373;513;;MA-WW-ING-01312;D-WW-ING-1312;;;;Beanspruchung elektrischer Betriebsmittel;Prof. Dr.-Ing. St. Großmann;Prof. Dr.-Ing. St. Großmann;;;wp;;wp_Wing-MA-HS;1;5
+374;514;;MA-WW-ING-01313;D-WW-ING-1313;;;;Geregelte Energie- und Antriebssysteme;Prof. Dr.-Ing. W. Hofmann;Prof. Dr.-Ing. W. Hofmann;;;wp;;wp_Wing-MA-HS;1;10
+375;516;;MA-WW-ING-01314;D-WW-ING-1314;;;;Entwurf von Elektromagnetischen Energiewandlern;Prof. Dr.-Ing. W. Hofmann;Prof. Dr.-Ing. W. Hofmann;;;wp;;wp_Wing-MA-HS;2;10
+376;517;;MA-WW-ING-1401a;D-WW-ING-1401a;;;;Aufbau- und Verbindungstechnik der Elektronik für WING;Prof. Dr.-Ing. h.c. K. Bock;Prof. Dr.-Ing. h.c. K. Bock;;;wp;;wp_Wing-MA-HS;1;5
+377;519;;MA-WW-ING-01402;D-WW-ING-1402;;;;Automatisierungstechnik für WING;Prof. Dr. techn. K. Janschek;Prof. Dr. techn. K. Janschek;;;wp;;wp_Wing-MA-HS;1;5
+378;520;;MA-WW-ING-01403;D-WW-ING-1403;;;;Biomedizinische Technik für WING;Prof. Dr.-Ing. habil. H. Malberg;Prof. Dr.-Ing. habil. H. Malberg;;;wp;;wp_Wing-MA-HS;1;5
+379;522;;MA-WW-ING-01404;D-WW-ING-1404;;;;Fertigungsplanung und -steuerung für WING;PD Dr.-Ing. Gerald Weigert;PD Dr.-Ing. Gerald Weigert;;;wp;;wp_Wing-MA-HS;1;5
+380;524;;MA-WW-ING-01405;D-WW-ING-1405;;;;Geräteentwicklung für WING;Prof. Dr.-Ing. habil. J. Lienig;Prof. Dr.-Ing. habil. J. Lienig;;;wp;;wp_Wing-MA-HS;1;5
+381;525;;MA-WW-ING-1406a;D-WW-ING-1406a;;;;Konstruktion für WING;PD Dr.-Ing. T. Nagel;PD Dr.-Ing. T. Nagel;;;wp;;wp_Wing-MA-HS;2;10
+382;527;;MA-WW-ING-01407;D-WW-ING-1407;;;;Mikrosystemtechnik für WING;Prof. Dr.-Ing. habil. W.-J. Fischer;Prof. Dr.-Ing. habil. W.-J. Fischer;;;wp;;wp_Wing-MA-HS;1;5
+383;528;;MA-WW-ING-1408a;D-WW-ING-1408a;;;;Montagetechnologien der Elektronik für WING;Prof. Dr.-Ing. h.c. K. Bock;Prof. Dr.-Ing. h.c. K. Bock;;;wp;;wp_Wing-MA-HS;1;5
+384;529;;MA-WW-ING-01409;D-WW-ING-1409;;;;Robotersteuerungen für WING;Prof. Dr. techn. K. Janschek;Prof. Dr. techn. K. Janschek;;;wp;;wp_Wing-MA-HS;1;5
+385;530;;MA-WW-ING-01410;D-WW-ING-1410;;;;Semiconductor Process Technology;Prof. Dr. rer. nat. J.-W. Bartha;Prof. Dr. rer. nat. J.-W. Bartha;;;wp;;wp_Wing-MA-HS;1;5
+386;531;;MA-WW-ING-01411;D-WW-ING-1411;;;;Sensorik für WING;Prof. Dr.-Ing. habil. G. Gerlach;Prof. Dr.-Ing. habil. G. Gerlach;;;wp;;wp_Wing-MA-HS;1;5
+387;532;;MA-WW-ING-01412;D-WW-ING-1412;;;;Simulation und Optimierung in der Gerätetechnik für WING;Prof. Dr.-Ing. habil. J. Lienig;Prof. Dr.-Ing. habil. J. Lienig;;;wp;;wp_Wing-MA-HS;1;5
+388;533;;MA-WW-ING-01413;D-WW-ING-1413;;;;Systeme für die zerstörungsfreie Prüfung und Strukturüberwachung;Jun. Prof. Dr.-Ing. H. Heuer;Jun. Prof. Dr.-Ing. H. Heuer;;;wp;;wp_Wing-MA-HS;2;5
+389;535;;MA-WW-ING-01501;D-WW-ING-1501;;;;Hochfrequenztechnik und Höchstfrequenztechnik;Prof. Dr.-Ing. D. Plettemeier;Prof. Dr.-Ing. D. Plettemeier;;;wp;;wp_Wing-MA-HS;2;10
+390;537;;MA-WW-ING-1502a;D-WW-ING-1502a;;;;Kommunikationsnetze;Prof. Dr.-Ing. Dr. h.c. F. Fitzek;Prof. Dr.-Ing. Dr. h.c. F. Fitzek;;;wp;;wp_Wing-MA-HS;1;5
+391;539;;MA-WW-ING-1503a;D-WW-ING-1503a;;;;Nachrichtetechnik und Informationstheorie;Prof. Dr.-Ing. G. Fettweis Prof. Dr.-Ing. F. Fitzek Prof. Dr.-Ing. E. Jorswieck;Prof. Dr.-Ing. G. Fettweis Prof. Dr.-Ing. F. Fitzek Prof. Dr.-Ing. E. Jorswieck;;;wp;;wp_Wing-MA-HS;3;10
+392;542;;MA-WW-ING-01504;D-WW-ING-1504;;;;Schaltungstechnik;Prof. Dr. sc. techn. habil. F. Ellinger;Prof. Dr. sc. techn. habil. F. Ellinger;;;wp;;wp_Wing-MA-HS;2;10
+393;544;;MA-WW-ING-01601;D-WW-ING-1601;;;;Anwendung & Bewertung Biomedizinischer Technik;Prof. Dr.-Ing. habil. H. Malberg;Prof. Dr.-Ing. habil. H. Malberg;;;wp;;wp_Wing-MA-HS;1;10
+394;546;;MA-WW-ING-01602;D-WW-ING-1602;;;;Biomedizinisch—technische Systeme für Wing;Prof. Dr.-Ing. habil. H. Malberg;Prof. Dr.-Ing. habil. H. Malberg;;;wp;;wp_Wing-MA-HS;1;10
+395;548;;MA-WW-ING-01603;D-WW-ING-1603;;;;Medizinische Bildgebung für Wing;PD Dr.-Ing. Ute Morgenstern;PD Dr.-Ing. Ute Morgenstern;;;wp;;wp_Wing-MA-HS;1;5
+396;550;;MA-WW-ING-01604;D-WW-ING-1604;;;;Medizinisch-physiologische Grundlagen für Wing;Prof. Dr.-Ing. habil. H. Malberg;Prof. Dr.-Ing. habil. H. Malberg;;;wp;;wp_Wing-MA-HS;1;5
+397;552;;MA-WW-ING-01605;D-WW-ING-1605;;;;Kooperative Systeme in der BMT für Wing;PD Dr.-Ing. Ute Morgenstern;PD Dr.-Ing. Ute Morgenstern;;;wp;;wp_Wing-MA-HS;1;5
+398;554;;MA-WW-ING-01701;D-WW-ING-1701;;;;Aerodynamik und Flugeigenschaften;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;1;5
+399;555;;MA-WW-ING-1702a;D-WW-ING-1702a;;;;Aktuelle Aspekte der Optimierung von Verkehrs- und Logistikprozessen;Prof. Karl Nachtigall;Prof. Karl Nachtigall;;;wp;;wp_Wing-MA-HS;1;5
+400;556;;MA-WW-ING-01703;D-WW-ING-1703;;;;Bahnbau;Prof. Fengler;Prof. Wolfgang Fengler;;;wp;;wp_Wing-MA-HS;1;5
+401;557;;MA-WW-ING-01704;D-WW-ING-1704;;;;Bahnbetriebsabsicherung;Prof. Dr.-Ing. Trinckauf;Prof. Dr.-Ing. Trinckauf;;;wp;;wp_Wing-MA-HS;1;5
+402;558;;MA-WW-ING-01705;D-WW-ING-1705;;;;Betrieblich-logistische Strukturen des Luftverkehrs;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;2;10
+403;559;;MA-WW-ING-01709;D-WW-ING-1709;;;;Communication, Navigation, Surveillance (CNS);Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;1;5
+404;560;;MA-WW-ING-01710;D-WW-ING-1710;;;;Einführung in die Straßenverkehrstechnik und Verkehrsnachfragemodellierung;Prof Dr. Gerike/PD Schiller;Prof Dr. Gerike/PD Schiller;;;wp;;wp_Wing-MA-HS;1;5
+405;561;;MA-WW-ING-01711;D-WW-ING-1711;;;;Einsatz der Schienenfahrzeuge;Prof. Karl Nachtigall;Prof. Karl Nachtigall;;;wp;;wp_Wing-MA-HS;1;5
+406;563;;MA-WW-ING-01713;D-WW-ING-1713;;;;Flugleistungen und Flugbetrieb;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;2;10
+407;565;;MA-WW-ING-01714;D-WW-ING-1714;;;;Grundlagen Schienenfahrzeugtechnik;Prof. Günter Löffler;Prof. Günter Löffler;;;wp;;wp_Wing-MA-HS;1;5
+408;566;;MA-WW-ING-1715a;D-WW-ING-1715a;;;;Grundlagen elektrischer Verkehrssysteme;Dr. Hammer;Dr. Hammer;;;wp;;wp_Wing-MA-HS;1;5
+409;567;;MA-WW-ING-01716;D-WW-ING-1716;;;;Grundlagenmodul Kraftfahrzeugtechnik;Prof. H. Zellbeck;Prof. H. Zellbeck;;;wp;;wp_Wing-MA-HS;1;5
+410;569;;MA-WW-ING-1717a;D-WW-ING-1717a;;;;Lärmschutz, Umweltaspekte beim Straßenentwurf und Entwurf stadttechnischer Anlagen;Prof. Christian Lippold;Prof. Christian Lippold;;;wp;;wp_Wing-MA-HS;1;5
+411;571;;MA-WW-ING-01719;D-WW-ING-1719;;;;Nachrichtenverkehrs- und Verkehrssysteme;PD Dr.-Ing. Stephan Baumann;PD Dr.-Ing. Stephan Baumann;;;wp;;wp_Wing-MA-HS;2;10
+412;572;;MA-WW-ING-01720;D-WW-ING-1720;;;;Optimierung und Zuverlässigkeit von Verkehrssystemen;Prof. Karl Nachtigall;Prof. Karl Nachtigall;;;wp;;wp_Wing-MA-HS;1;5
+413;574;;MA-WW-ING-01721;D-WW-ING-1721;;;;Planen, Bauen und Betreiben von Nahverkehrsbahnen;Prof. Wolfgang Fengler;Prof. Wolfgang Fengler;;;wp;;wp_Wing-MA-HS;1;5
+414;575;;MA-WW-ING-01722;D-WW-ING-1722;;;;Planung & Gestaltung von Luft- und Straßenverkehrsanlagen;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;1;5
+415;577;;MA-WW-ING-01723;D-WW-ING-1723;;;;Planung sicherungstechnischer Anlagen;Dr.-Ing. Maschek;Dr.-Ing. Maschek;;;wp;;wp_Wing-MA-HS;1;5
+416;578;;MA-WW-ING-01724;D-WW-ING-1724;;;;Planung und Entwurf von Bahnanlagen;Prof. Fengler;Prof. Wolfgang Fengler;;;wp;;wp_Wing-MA-HS;2;10
+417;579;;MA-WW-ING-01725;D-WW-ING-1725;;;;Projektarbeiten Verkehrstelematik (Prozessautomatisierung);Prof. Jürgen Krimmling;Prof. Jürgen Krimmling;;;wp;;wp_Wing-MA-HS;1;5
+418;580;;MA-WW-ING-01726;D-WW-ING-1726;;;;Projektarbeiten Verkehrstelematik (Verkehrssensorik);Prof. Jürgen Krimmling;Prof. Jürgen Krimmling;;;wp;;wp_Wing-MA-HS;1;5
+419;581;;MA-WW-ING-01727;D-WW-ING-1727;;;;Prozessautomatisierung in der Verkehrstelematik;Prof. Jürgen Krimmling;Prof. Jürgen Krimmling;;;wp;;wp_Wing-MA-HS;2;10
+420;583;;MA-WW-ING-1728a;D-WW-ING-1728a;;;;Bemessungsverfahren im Straßenverkehr;Prof. Gerike;Prof. Gerike;;;wp;;wp_Wing-MA-HS;1;5
+421;584;;MA-WW-ING-01729;D-WW-ING-1729;;;;Raum- und Verkehrsplanung;Prof. Gerike;Prof. Gerike;;;wp;;wp_Wing-MA-HS;1;5
+422;585;;MA-WW-ING-01730;D-WW-ING-1730;;;;Safety und Airline Management;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;1;5
+423;586;;MA-WW-ING-01731;D-WW-ING-1731;;;;Schienenverkehrsanlagen;Prof. Fengler;Prof. Wolfgang Fengler;;;wp;;wp_Wing-MA-HS;1;5
+424;587;;MA-WW-ING-01732;D-WW-ING-1732;;;;Straßenentwurf;Prof. Christian Lippold;Prof. Christian Lippold;;;wp;;wp_Wing-MA-HS;1;5
+425;588;;MA-WW-ING-01733;D-WW-ING-1733;;;;Terminal Operations;Prof. Hartmut Fricke;Prof. Hartmut Fricke;;;wp;;wp_Wing-MA-HS;1;5
+426;589;;MA-WW-ING-1734a;D-WW-ING-1734a;;;;Unkonventionelle Bahnsysteme;Prof. Stephan;Prof. Stephan;;;wp;;wp_Wing-MA-HS;1;5
+427;591;;MA-WW-ING-01745;D-WW-ING-1745;;;;Verkehrsökologie und ihre Verfahren;Prof. Dr.-Ing. Becker;Prof. Dr.-Ing. Becker;;;wp;;wp_Wing-MA-HS;1;5
+428;592;;MA-WW-ING-01736;D-WW-ING-1736;;;;Verkehrssensorik;Prof. Oliver Michler;Prof. Oliver Michler;;;wp;;wp_Wing-MA-HS;1;5
+429;594;;MA-WW-ING-1738a;D-WW-ING-1738a;;;;Vertiefungsmodul Kraftfahrzeugtechnik (Verbrennungsmotoren und Gesamtfahrzeugfunktionen);Prof. H. Zellbeck;Prof. H. Zellbeck;;;wp;;wp_Wing-MA-HS;1;5
+430;596;;MA-WW-ING-01739;D-WW-ING-1739;;;;Vertiefungsmodul Kraftfahrzeugtechnik (Ausgewählte Kapitel sowie Fahr- und Bremstechnik);Prof. G. Prokop;Prof. G. Prokop;;;wp;;wp_Wing-MA-HS;1;5
+431;598;;MA-WW-ING-01741;D-WW-ING-1741;;;;Vertiefungsmodul Schienenfahrzeugtechnik (Fahrdynamik und Bremsen);Prof. Günter Löffler;Prof. Günter Löffler;;;wp;;wp_Wing-MA-HS;1;5
+432;599;;MA-WW-ING-01742;D-WW-ING-1742;;;;Vertiefungsmodul Schienenfahrzeugtechnik (Fahrzeuge);Prof. Günter Löffler;Prof. Günter Löffler;;;wp;;wp_Wing-MA-HS;1;5
+433;600;;MA-WW-ING-01743;D-WW-ING-1743;;;;Vertiefungsmodul Kraftfahrzeugtechnik (KFZ 3 und Fahrzeugelektronik);Prof. G. Prokop;Prof. G. Prokop;;;wp;;wp_Wing-MA-HS;2;5
+434;602;;MA-WW-ING-1801a;D-WW-ING-1801a;;;;Angewandte Hydroverfahrenstechnik;Dr. A. Lerch;Dr. A. Lerch;;;wp;;wp_Wing-MA-HS;1;5
+435;604;;MA-WW-ING-1802a;D-WW-ING-1802a;;;;Grundlagen der Abfallwirtschaft und Altlasten;Prof. Dornack;Prof. Dornack;;;wp;;wp_Wing-MA-HS;1;5
+436;605;;MA-WW-ING-1803a;D-WW-ING-1803a;;;;Grundlagen der Abwassersysteme;Prof. Krebs;Prof. Krebs;;;wp;;wp_Wing-MA-HS;1;5
+437;606;;MA-WW-ING-1804a;D-WW-ING-1804a;;;;Grundlagen der Hydroverfahrenstechnik;Dr. A Lerch;Dr. A. Lerch;;;wp;;wp_Wing-MA-HS;1;5
+438;608;;MA-WW-ING-1805a;D-WW-ING-1805a;;;;Grundlagen der Meteorologie und Hydrologie;Prof. Bernhofer;Prof. Bernhofer;;;wp;;wp_Wing-MA-HS;1;5
+439;609;;MA-WW-ING-01806;D-WW-ING-1806;;;;Grundlagen des Stoffstrommanagements;Prof. Dornack;Prof. Dornack;;;wp;;wp_Wing-MA-HS;1;5
+440;610;;MA-WW-ING-01807;D-WW-ING-1807;;;;Grundlagen der Wasserversorgung;Prof. Krebs;Prof. Krebs;;;wp;;wp_Wing-MA-HS;1;5
+441;611;;MA-WW-ING-01808;D-WW-ING-1808;;;;Modellierung von Hydrosystemen;Prof. Kolditz;Prof. Kolditz;;;wp;;wp_Wing-MA-HS;1;5
+442;612;;MA-WW-ING-01809;D-WW-ING-1809;;;;Wasserhaushalt und -bewirtschaftung;N.N.;N.N.;;;wp;;wp_Wing-MA-HS;1;5
+443;614;;MA-WW-ING-01810;D-WW-ING-1810;;;;Behandlungstechnologien für Siedlungsabfälle;Prof. Dornack;Prof. Dornack;;;wp;;wp_Wing-MA-HS;1;10
+444;616;;MA-WW-ING-01811;D-WW-ING-1811;;;;Vorsorge in der Abfall- und Kreislaufwirtschaft;Prof. Dornack;Prof. Dornack;;;wp;;wp_Wing-MA-HS;1;5
+445;618;MA-WW-VWL-0903a;;D-WW-WIWI-0903a;;;;Current Topics in Public Economics;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+446;619;MA-WW-VWL-0906;;D-WW-WIWI-0906;;;;Forschungsfragen der Finanzwissenschaft;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+447;620;MA-WW-VWL-0911a;;D-WW-WIWI-0911a;;;;Ressourcenökonomik;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+448;621;MA-WW-VWL-0912;;D-WW-WIWI-0912;;;;Steuertheorie;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+449;622;MA-WW-VWL-0950;;D-WW-WIWI-0950;;;;Theorie des Sozialstaates;Prof. Dr. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+450;623;MA-WW-VWL-1304a;;D-WW-WIWI-1304a;;;;Aktuelle Themen der Finanzwissenschaft;Prof. Dr. M. Thum;Prof. Dr. Marcel Thum;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+451;624;MA-WW-VWL-1306;;D-WW-WIWI-1306;;;;Topics in International Trade;Prof. Dr. Udo Kreickemeier;Prof. Dr. Udo Kreickemeier;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+452;625;MA-WW-VWL-1307;;D-WW-WIWI-1307;;;;Advanced International Trade;Prof. Dr. Kreickemeier;Prof. Dr. Udo Kreickemeier;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+453;626;MA-WW-VWL-1308;;D-WW-WIWI-1308;;;;Economics of European Integration;Dr. Philipp Richter;Jun.-Prof. Dr. Philipp M. Richter;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+454;627;MA-WW-VWL-1310a;;D-WW-WIWI-1310a;;;;Economics of Multinational Enterprises;Dr. Qu;Dr. Zhan Qu;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+455;628;MA-WW-VWL-1311a;;D-WW-WIWI-1311a;;;;The Global Organization of Production;Dr. Zhan Qu;Dr. Zhan Qu;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+456;629;MA-WW-VWL-1350;;D-WW-WIWI-1350;;;;Environmental Economics;Jun.-Prof. Dr. Philipp M. Richter;Jun.-Prof. Dr. Philipp M. Richter;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+457;630;MA-WW-VWL-1601;;D-WW-WIWI-1601;;;;Aktuelle Themen in Internationalen Wirtschaftsbeziehungen;Prof. Dr. Udo Kreickemeier;Prof. Dr. Udo Kreickemeier;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+458;631;MA-WW-VWL-1604;;D-WW-WIWI-1604;;;;Evolutions- und Komplexitätsökonomik;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+459;632;MA-WW-VWL-1605;;D-WW-WIWI-1605;;;;Innovationsökonomik;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+460;633;MA-WW-VWL-1606;;D-WW-WIWI-1606;;;;Institutionenevolution;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+461;634;MA-WW-VWL-1607;;D-WW-WIWI-1607;;;;Verhaltensökonomik;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+462;635;MA-WW-VWL-1607;;D-WW-WIWI-1607;;;;Verhaltensorientierte Spieltheorie;Prof. Dr. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+463;636;MA-WW-VWL-1650;;D-WW-WIWI-1650;;;;Aktuelle Themen der Managerial Economics;Prof. Dr. M. Lehmann-Waffenschmidt;Prof. Dr. Marco Lehmann-Waffenschmidt;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+464;637;MA-WW-VWL-1801;;D-WW-WIWI-1801;;;;Financial Stability and Regulation of Financial Markets;Prof. Dr. Thilo Liebig;Prof. Dr. Thilo Liebig;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+465;638;MA-WW-VWL-1802;;D-WW-WIWI-1802;;;;Current Topics in Financial Stability and Regulation of Financial Markets;Prof. Dr. Thilo Liebig;Prof. Dr. Thilo Liebig;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+466;639;MA-WW-VWL-1804;;D-WW-WIWI-1804;;;;Exchange Rates;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+467;640;MA-WW-VWL-1805;;D-WW-WIWI-1805;;;;Financial Crises;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+468;641;MA-WW-VWL-1808;;D-WW-WIWI-1808;;;;International Financial Markets;Prof. Dr. Stefan Eichler;Prof. Dr. Stefan Eichler;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+469;642;MA-WW-VWL-1850;;D-WW-WIWI-1850;;;;Aktuelle Themen der Monetären Ökonomik;N.N.;N.N.;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+470;643;MA-WW-VWL-2102;;D-WW-WIWI-2102;;;;Empierische Methoden der Regionalforschung;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+471;644;MA-WW-VWL-2104;;D-WW-WIWI-2104;;;;Neue Ökonomische Geographie;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+472;645;MA-WW-VWL-2106;;D-WW-WIWI-2106;;;;Urban Economics;Prof. Dr. Hirte;Prof. Dr. G. Hirte;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+473;646;MA-WW-VWL-2150;;D-WW-WIWI-2150;;;;Aktuelle Themen der Raumwirtschaft;Prof. Dr. G. Hirte;Prof. Dr. G. Hirte;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+474;647;MA-WW-VWL-2701;;D-WW-WIWI-2701;;;;Bildungsökonomie;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+475;648;MA-WW-VWL-2702;;D-WW-WIWI-2702;;;;Economics of Migration;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+476;649;MA-WW-VWL-2704;;D-WW-WIWI-2704;;;;Economics Policy and Globalization;Prof. Dr. Alexander Kemnitz;Prof. Dr. Alexander Kemnitz;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+477;650;MA-WW-VWL-2750;;D-WW-WIWI-2750;;;;Aktuelle Themen der Wirtschaftspolitik und Wirtschaftsforschung;Prof. Dr. A. Kemnitz;Prof. Dr. Alexander Kemnitz;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+478;651;MA-WW-VWL-3501;;D-WW-WIWI-3501;;;;Computable general equilibrium analysis;Prof. Dr. Korzhenevych;Prof. Dr. Korzhenevych;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;10
+479;653;;;;MA-WW-WINF-0401;D-WW-WINF-0401;;Advanced Business Analytics;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+480;655;;;;MA-WW-WINF-0402;D-WW-WINF-0402;;Ausgewählte Aspekte der Business Intelligence;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+481;656;;;;MA-WW-WINF-0403;D-WW-WINF-0403;;Ausgewählte Aspekte der modernen Betriebswirtschaftslehre;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+482;658;;;;MA-WW-WINF-0404;D-WW-WINF-0404;;Business Intelligence & Data Mining;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+483;660;;;;MA-WW-WINF-0405;D-WW-WINF-0405;;Business Intelligence & Data Warehousing;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+484;662;;;;MA-WW-WINF-0406;D-WW-WINF-0406;;Business Intelligence Boot Camp;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+485;664;;;;MA-WW-WINF-0407;D-WW-WINF-0407;;Corporate Performance Management;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+486;666;;;;MA-WW-WINF-0408;D-WW-WINF-0408;;Gestaltungsansätze der Wirtschaftsinformatik;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+487;668;;;;MA-WW-WINF-0409;D-WW-WINF-0409;;Konzeption und Anwendung von Business-Intelligence-Systemen ;Prof. Dr. Andreas Hilbert;Prof. Dr. Andreas Hilbert;;;;;;1;5
+488;670;;;;MA-WW-WINF-0450;D-WW-WINF-0450;;Aktuelle Themen der Business Intelligence Research;Prof. Dr. A. Hilbert;Prof. Dr. Andreas Hilbert;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+489;671;;;;MA-WW-WINF-1101;D-WW-WINF-1101;;Collaboration in the Virtual Classroom;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+490;673;;;;MA-WW-WINF-1107;D-WW-WINF-1107;;Qualifizierung von E-Tutoren;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;2;5
+491;674;;;;MA-WW-WINF-1112;D-WW-WINF-1112;;Wissensmanagement;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+492;676;;;;MA-WW-WINF-1113;D-WW-WINF-1113;;Corporate Communications ;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+493;678;;;;MA-WW-WINF-1114;D-WW-WINF-1114;;Designing E-Learning Arrangements ;Prof. Dr. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+494;680;;;;MA-WW-WINF-1150;D-WW-WINF-1150;;Aktuelle Themen des Informationsmanagement;Prof. Dr. E. Schoop;Prof. Dr. E. Schoop;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+495;681;;;;MA-WW-WINF-1250;D-WW-WINF-1250;;Aktuelle Themen der Informationssysteme in Industrie und Handel;Prof. Dr. S. Strahringer;Prof. Dr. S. Strahringer;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+496;682;;;;MA-WW-WINF-2402;D-WW-WINF-2402;;Angewandte Systementwicklung;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+497;684;;;;MA-WW-WINF-2403;D-WW-WINF-2403;;Business Engineering;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+498;685;;;;MA-WW-WINF-2405;D-WW-WINF-2405;;Enterprise Modeling;Prof. Dr. Esswein;Prof. Dr. Werner Esswein;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5
+499;686;;;;MA-WW-WINF-2450;D-WW-WINF-2450;;Aktuelle Themen der Systementwicklung;Prof. Dr. W. Esswein;Prof. Dr. Werner Esswein;wp_MA;wp_MA;wp;wp;wp_MA_HS;1;5

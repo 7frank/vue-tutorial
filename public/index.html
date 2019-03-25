@@ -1,0 +1,52 @@
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+<div id="app-2">
+
+    <div>
+        Search:<input v-model="filter"></input>
+    </div>
+    <table>
+        <tr v-for="(item, key, index) in filteredItems">
+            <template v-if="key==0">
+                <th v-for="(value, key, index) in item">{{key}}</th>
+            </template>
+
+            <td v-for="(value, key, index) in item">{{value}}</td>
+
+        </tr>
+    </table>
+</div>
+
+<script>
+
+    var app2 = new Vue({
+        el: '#app-2',
+        data: {
+            items: [],
+            jsonFile:"/assets/test2.json",
+            filter:""
+        },
+        computed:{
+            filteredItems:function(){
+                if (!this.filter) return this.items;
+
+
+                return this.items
+                .filter(item=> item['Verantwortlicher Dozent'].toLowerCase().indexOf(this.filter)>=0)
+             
+            }
+
+
+        },
+        mounted: function () {
+
+
+            fetch(this.jsonFile)
+                .then(r => r.json())
+                .then(jsonData => this.items = jsonData)
+        }
+
+    })
+
+</script>
